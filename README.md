@@ -6,9 +6,7 @@ A Deep CNN based Object Detector using Single Shot Detector algorithm
 Below are a few examples of our Object Detector
 
 ![](./writeup/000002.jpg) 
-
 ![](./writeup/000004.jpg)
-
 ![](./writeup/000011.jpg)
 ![](./writeup/000029.jpg)
 ![](./writeup/000040.jpg)
@@ -26,7 +24,6 @@ Below are a few examples of our Object Detector
 ![](./writeup/000313.jpg)
 ![](./writeup/000809.jpg)
 ![](./writeup/000819.jpg)
-
 ![](./writeup/001710.jpg)
 ![](./writeup/001998.jpg)
 ![](./writeup/002434.jpg)
