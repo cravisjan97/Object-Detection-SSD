@@ -3,7 +3,7 @@ A Deep CNN based Object Detector using Single Shot Detector algorithm
 
 # Final Results
 
-Below are a few examples of our Object Detector
+Below are a few examples of our Object Detections:
 
 <img src="./writeup/000002.jpg" width="425"/> <img src="./writeup/000004.jpg" width="425"/>
 <img src="./writeup/000011.jpg" width="425"/> <img src="./writeup/000029.jpg" width="425"/>
